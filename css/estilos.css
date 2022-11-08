@@ -1,12 +1,22 @@
-body 
+body
 {
-    color: rgb(38, 29, 116);
+    color: #333;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    background-image:url(/assets/fondo.jpg) ;
-    background-position: center;
-	background-size: cover;
-	background-attachment: fixed;
-	
+    font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
 
+#container h1
+{
+    font-size: 20px;
 }
