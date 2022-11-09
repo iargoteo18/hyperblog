@@ -1,0 +1,1 @@
+Hola este es un repositorio para los preyectos de platzi, por ahora solo los ejemplos pero luego los vedaderos proyectos estaran aqui.
